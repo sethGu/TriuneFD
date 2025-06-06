@@ -1,2 +1,2 @@
 # TriuneFD
-source code of paper "Beyond Scores: TriuneFD for Tri-Grained Fraud Detection with Cross-Layer Evidence Chains"
+source code of paper "Beyond Traditional Outputs: Towards Explainable and Regulator-Consistent Fraud Detection"
